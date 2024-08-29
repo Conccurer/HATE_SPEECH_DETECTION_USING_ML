@@ -11,7 +11,6 @@ This project aims to detect hate speech patterns in comments and posts on social
 - [Model Description](#model-description)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -65,7 +64,3 @@ The performance of the model is evaluated using:
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any bugs, improvements, or suggestions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
